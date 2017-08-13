@@ -1,5 +1,5 @@
-# 12-shichen
-十二时辰转换|Convert time to Chinese 12 hours / Shichen
+# 十二时辰 | 12-shichen
+十二时辰转换 | Convert time to Chinese 12 hours / Shichen
 
 time2shiChen(hour:number, minute:number) : [''shichen, 'chu or zheng', 'ke']
 
