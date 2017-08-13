@@ -39,3 +39,5 @@ time2shiChen.ctime = {
 	'21':'亥',
 	'22':'亥',
 };
+
+export default time2shiChen;
